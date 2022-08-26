@@ -1,0 +1,6 @@
+.addtodo{
+    margin-top: 20px;
+}
+.title,.desc{
+    font-style: italic;
+}

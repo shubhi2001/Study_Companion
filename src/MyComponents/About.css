@@ -1,0 +1,12 @@
+.container{
+    font-style:italic;
+    background-color: rgba(61, 59, 59, 0.863);
+    margin : 20px;
+    min-Height : 100vh;
+}
+.myImage{
+    background-color: rgb(95, 93, 91);
+}
+.description{
+    font-style:italic;
+}
